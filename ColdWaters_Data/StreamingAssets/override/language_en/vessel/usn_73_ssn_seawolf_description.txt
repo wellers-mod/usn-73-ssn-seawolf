@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Seawolf
+Designation=SSN
+Description=Seawolf-class Nuclear Attack Submarine
+History=USS Seawolf (SSN-575) was the third ship of the United States Navy to be named for the seawolf, the second nuclear submarine, and the only US submarine built with a liquid metal cooled (sodium), beryllium-moderated nuclear reactor, the S2G. Her overall design (known as SCB 64A) was a variant of Nautilus, but with numerous detail changes, such as a conning tower, stepped sail, and the BQR-4 passive sonar mounted in the top portion of the bow instead of further below. This sonar arrangement resulted in an unusual bow shape above the water for a U.S. submarine.
+
+[Player Ship Instances]
+PlayerClassNames=Seawolf
+PlayerClassHullNumbers=SSN-575
