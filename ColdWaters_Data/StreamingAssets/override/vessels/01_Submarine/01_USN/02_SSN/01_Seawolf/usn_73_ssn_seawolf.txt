@@ -2,10 +2,10 @@ Designation=SSN
 ShipType=SUBMARINE
 PlayerHUD=hud/default_usn_towedonly
 
-Length=103
+Length=117
 Beam=8.5
 HullHeight=0.08
-Displacement=4150
+Displacement=4287
 Crew=101
 Range=10000
 HullNumbers=FALSE
@@ -41,8 +41,8 @@ RADAR=usn_bps_12
 RADARSignature=SMALL
 
 [Weapon Systems]
-TorpedoTypes=usn_nt37c,usn_mk16,usn_moss
-TorpedoNumbers=13,8,3
+TorpedoTypes=usn_mk48,usn_moss
+TorpedoNumbers=21,3
 TorpedoTubes=6
 NumberOfWires=1
 TubeConfig=1,1,1,1,1,1

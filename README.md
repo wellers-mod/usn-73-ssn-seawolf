@@ -2,11 +2,11 @@
 
 As part of the development of the Seawolf-class submarine for Cold Waters 1962, I created a '73 overhaul variant. 
 
+Ready for campaigns up to her decommissioning in 1987, I've loaded the vessel with the Mark-48 Torpedoes and MOSS.
+
 Seawolf entered drydock on 8 January 1971 for an overhaul and conversion to a special project platform. This included adding a 52-foot hull extension forward of the sail to house intelligence gathering equipment that supported covert operations (including an "aquarium" for launching variable depth sonar and retrieval equipment).
 
 Note that I have not included the "skegs" and thrusters on this version.
-
-Ready for campaigns up to her decommissioning in 1987, I've loaded the vessel with the NT37C Torpedoes as the submarine never received the Mark-48 upgrade. Mark-16s and MOSS are also available weapons.
 
 Requires at least DotMod v0.4a-2.
 
