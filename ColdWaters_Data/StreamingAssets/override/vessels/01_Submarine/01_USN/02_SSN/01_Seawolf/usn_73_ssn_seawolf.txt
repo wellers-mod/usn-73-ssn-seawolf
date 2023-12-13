@@ -105,15 +105,15 @@ MeshPosition=-0.0,0.07,0.1555
 MastHeight=0.065
 MeshMast=usn_ssn_skipjack_radar_mast
 
-AssetBundle=bundles/vessels/usn_ssn_nautilus.unity3d
-ModelFile=assets/models/usn_ssn_nautilus.obj
-Material=assets/materials/usn_ssn_nautilus.mat
-
+ModelFile=ships/wp_ss_whiskey/wp_ss_whiskey
+Material=ships/wp_ss_whiskey/wp_ss_whiskey_mat
+MeshScale=1.42,1.42,1.42
 MeshPosition=-0.035714,-0.025911,-0.61115
-MeshProp=usn_ssn_nautilus_prop_l
-
+MeshProp=wp_ss_whiskey_prop_l
+MeshScale=1.42,1.42,1.42
 MeshPosition=0.035714,-0.025911,-0.61115
-MeshProp=usn_ssn_nautilus_prop_l
+MeshProp=wp_ss_whiskey_prop_r
+MeshScale=1,1,1
 
 AssetBundle=bundles/vessels/usn_ss_guppy_tench.unity3d
 Material=assets/materials/usn_68_guppy_tench_tx.mat
