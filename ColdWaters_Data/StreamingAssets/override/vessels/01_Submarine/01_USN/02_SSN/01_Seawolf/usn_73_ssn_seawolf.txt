@@ -177,7 +177,7 @@ TorpedoSpawnPosition=0.00631,-0.034,0.82
 TorpedoEffectPosition=0.00631,-0.034,0.82
 
 //Tube 6
-MeshPosition=0.00631,-0.043,0.64
+MeshPosition=0.00631,-0.043,0.82
 MeshRotation=0,0,0
 TorpedoSpawnPosition=0.00631,-0.043,0.82
 TorpedoEffectPosition=0.00631,-0.043,0.82
