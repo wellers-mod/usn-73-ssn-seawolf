@@ -120,7 +120,7 @@ Material=assets/materials/usn_68_guppy_tench_tx.mat
 
 AssetBundle=bundles/usn_73_ssn_seawolf.unity3d
 ModelFile=assets/models/usn_73_ssn_seawolf.fbx
--Material=assets/materials/usn_73_ssn_seawolf_tx.mat
+-Material=assets/models/materials/usn_73_ssn_seawolf_tx.mat
 MaterialTextures=assets/textures/usn_73_ssn_seawolf_tx.png,assets/textures/usn_73_ssn_seawolf_spec.png,assets/textures/usn_73_ssn_seawolf_nm.png
 
 VesselModelName=usn_73_ssn_seawolf
